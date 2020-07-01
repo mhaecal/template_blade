@@ -460,5 +460,4 @@
 @push('cssDatatable')
 <!-- DataTables -->
   <link rel="stylesheet" href="{{ asset('adminlte/plugins/datatables-bs4/css/dataTables.bootstrap4.css') }}">
-
-  @endpush
+@endpush
